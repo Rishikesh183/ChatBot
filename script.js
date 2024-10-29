@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyCpwk8T2rSLO-yOU0iH2_cc0LjSg5QlMto"; // replace your API Key here.
+const API_KEY = " // replace your API Key here.";
 
 document.addEventListener("DOMContentLoaded", function (event) {
     const chatBodyScroll = document.getElementById("chat-body-scroll");
